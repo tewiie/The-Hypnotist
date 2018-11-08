@@ -1,0 +1,13 @@
+"thehypnotist"
+{
+    "base"        "base"
+    "title"        "The Hypnotist"
+    "maps"        ""
+    "menusystem"    "1"
+    "workshopid"    ""
+    
+        "settings"
+    {
+
+    }
+}
